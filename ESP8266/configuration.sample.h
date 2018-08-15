@@ -8,8 +8,3 @@
 
 // device settings
 #define TRESHOLD          3.0
-
-// pushover settings
-#define USE_PUSHOVER      false
-#define PUSHOVER_APP_KEY  ""
-#define PUSHOVER_USER_KEY ""
